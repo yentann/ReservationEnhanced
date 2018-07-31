@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile Num</string>
+    <string name="numofpeople">Pax number</string>
+    <string name="nonsmoke">Non-Smoking area</string>
+    <string name="smoke">Smoking area</string>
+    <string name="confirm">Confirm Reservation</string>
+    <string name="reset">Reset</string>
+    <string name="smoking">Smoking</string>
+    <string name="day">Click here to select day</string>
+
+    <string-array name="pax">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
